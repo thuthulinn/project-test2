@@ -143,7 +143,7 @@
   <testcase classname="PrimeNumberCheckerTest" name="testPrimeNumberChecker[4]" time="0.0" />
   <system-out><![CDATA[Parameterized Number is : 2
 Parameterized Number is : 13
-Parameterized Number is : 19
+Parameterized Number is : 20
 Parameterized Number is : 22
 Parameterized Number is : 23
 ]]></system-out>
